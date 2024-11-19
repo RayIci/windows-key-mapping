@@ -14,7 +14,7 @@ The remapped keys are:
 
 In order to use the AutoHotKey script you need to install AutoHotKey from the [official website](https://www.autohotkey.com/).
 
-The 1.1 version of AutoHotKey is needed in order to run the script.
+The 2.0 version of AutoHotKey is needed in order to run the script.
 
 ## Run the script on startup
 
